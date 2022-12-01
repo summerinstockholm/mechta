@@ -1,0 +1,27 @@
+company: Mechta
+  departments:
+    department_1:
+      employees:
+        names:
+          Olga:
+            quantity: 4
+            position: accountant
+          Dmitry:
+            quantity: 3
+          Ivan:
+            quantity: 2
+          other_employees:
+            names: unknown
+        salary: high
+
+    department_2:
+      employees:
+        names:
+          Roman:
+            quantity: 4
+            position: lawyer
+          Maxim:
+            quantity: 2
+            position: driver
+        ages: under_30
+        salary: low
